@@ -33,5 +33,5 @@ Based on the most critical criteria you should find a mitigation to lower the ri
 The biggest part of next steps is the documentation and also implementation of your countermeasures. 
 
 ## References
-- https://www.owasep.org/index.php/Category:Threat_Modeling
+- https://www.owasp.org/index.php/Category:Threat_Modeling
 - https://www.microsoft.com/en-us/securityengineering/sdl/threatmodeling
